@@ -16,7 +16,7 @@ public class TCPRouter3
       {  
           try  
           {  
-        	  System.out.println("TCPRoute3 Başlatılıyor..\\nLocalhost'un ip Adresi Alınıyos..");
+        	  System.out.println("TCPRoute3 Başlatılıyor..\\n Localhost'un ip Adresi Alınıyos..");
         	  host = InetAddress.getLocalHost();  
           }  
           catch(Exception uhEx)  
